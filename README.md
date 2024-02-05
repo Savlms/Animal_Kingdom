@@ -26,7 +26,7 @@ Clone the repo and cd into the directory such that you are in AnimalKingdom.
 
 To run the solution, make sure you have nodejs installed.
 
-Use the following command in your terminal.
+Use the following command in your terminal
 node animal.js
 
 
