@@ -19,16 +19,14 @@ Polymorphism was used to enforce method overriding in to classes that had differ
 Encapsulation was used to improve code security by making some methods and properties of an object private.
 
 
-CLASSIFICATIONS & ATTRIBUTES
 
-The Butterfly is class Arthropoda - it is cold blooded, has no backbone and has scaly wings for flight.
+How To Use
 
-Fish is class Fish - it is cold blooded, has a backbone and has fins for steering and propelling in water.
+Clone the repo and cd into the directory such that you are in AnimalKingdom.
 
-Frog is class Amphibia - it is cold blooded, has a backbone and has fore and hind limbs for hopping and swimming.
+To run the solution, make sure you have nodejs installed.
 
-Tortoise is class Reptile - it is cold blooded, has a backbone and has four legs for crawling.
+Use the following command in your terminal.
+node animal.js
 
-Bird is class Aves - it is warm blooded, has a backbone and has feathery wings for flight.
 
-Cat is class Mammal - it is warm blooded, has a backbone and has four legs for walking.
